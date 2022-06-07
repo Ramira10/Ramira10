@@ -21,8 +21,8 @@
         </p>
         <p align="center">
           <a href="https://github.com/Ramira10">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ramira10&show_icons=true&theme=dark&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramira10&theme=dark&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ramira10&theme=dark&show_icons=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramira10&theme=dark" />
           </a>
        </p>
      <br>
