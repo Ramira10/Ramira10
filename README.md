@@ -13,11 +13,14 @@
 <div>
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/png-clipart-javascript-scalable-graphics-logo-encapsulated-postscript-javascript-icon-text-logo.png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/1200px-React.svg.png" />
-<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/1200px-React.svg.png" />
-<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/1200px-React.svg.png" />
-<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/1200px-React.svg.png" />
-<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/1200px-React.svg.png" />
-<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/1200px-React.svg.png" />
+<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/5848309bcef1014c0b5e4a9a%20(2).png" />
+<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/4202020css3htmllogosocialsocialmedia-115668_115633.png" />
+<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" />
+<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/58482ee4cef1014c0b5e4a75%20(1).png" />
+<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/584815fdcef1014c0b5e497a.png" />
+<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/5847f981cef1014c0b5e48be.png" />
+<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/25231.png" />
+<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/1933998.png" />
 </div>
 
 <h2 align="center"> My proyects </h2>
