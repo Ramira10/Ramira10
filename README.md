@@ -15,7 +15,7 @@
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/1200px-React.svg.png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/5848309bcef1014c0b5e4a9a%20(2).png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/4202020css3htmllogosocialsocialmedia-115668_115633.png" />
-<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/commit/22a9b8b00d138b6424656da88b6bf823013ef281" />
+<img width="50px" heigth="50px" src="https://raw.githubusercontent.com/Ramira10/Ramira10/22a9b8b00d138b6424656da88b6bf823013ef281/iconos/nodejs-icon-logo.png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/58482ee4cef1014c0b5e4a75%20(1).png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/584815fdcef1014c0b5e497a.png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/5847f981cef1014c0b5e48be.png" />
