@@ -10,7 +10,7 @@
 </div>
 
 <h2 align="center"> Lenguages and Tools </h2>
-<div>
+<div align="center">
 <img width="50px" heigth="50px" src="https://raw.githubusercontent.com/Ramira10/Ramira10/a7c9f90315ddd998b2784eda7bdc1cd2f4c36d4e/iconos/Unofficial_JavaScript_logo_2.svg.png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/1200px-React.svg.png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/5848309bcef1014c0b5e4a9a%20(2).png" />
