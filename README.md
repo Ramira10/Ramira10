@@ -30,7 +30,12 @@
 <h2 align="center"> My proyects </h2>
 <div align="center">
 <p dir="auto"><strong>E-Commerce</strong></p>
-<a href="https://demo-deploy-pf-front.vercel.app/" target="_blank"><img width="500px" heigth="300px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/ecommerce.png"/></a>
+<a href="https://demo-deploy-pf-front.vercel.app/" target="_blank"><img width="500px" heigth="500px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/ecommerce.png"/></a>
+  
+  <a>
+  <img width="500px" heigth="300px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/ecommerce.png"/>
+  </a>
+  
 <br/>
 <a href="https://demo-deploy-pf-front.vercel.app/">Deploy</a>
 <br/>
