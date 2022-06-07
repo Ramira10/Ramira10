@@ -41,7 +41,7 @@
 <br/>
 <br/>
 <p dir="auto"><strong>Food App:</strong></p>
-<img width="500px" heigth="500px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/food%20app.png" />
+<img width="500px" heigth="600px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/food%20app.png" />
 <br/>
 <a href="https://ramira10-food-client.vercel.app/">Deploy</a>
 <br/>
