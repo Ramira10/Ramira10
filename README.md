@@ -17,7 +17,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/Ramira10">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramira10&langs_count=6&theme=dark&layout=compact&hide_border=true" alt="Ramira10 :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramira10&hide=html&layout=compact&theme=dark" alt="Ramira10 :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/Ramira10">
