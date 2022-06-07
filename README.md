@@ -30,12 +30,16 @@
 <h2 align="center"> My proyects </h2>
 <p dir="auto"><strong>E-Commerce:</strong></p>
 <a href="https://demo-deploy-pf-front.vercel.app/">Deploy</a>
+<br/>
 <a href="https://github.com/LoreLor/PF-Eco-FRONTEND">Frontend</a>
+<br/>
 <a href="https://github.com/LoreLor/PF-Eco-BACKEND">Backend</a>
+<br/>
 
 <br/>
 <p dir="auto"><strong>Food App:</strong></p>
 <a href="https://ramira10-food-client.vercel.app/">Deploy</a>
+<br/>
 <a href="https://github.com/Ramira10/PI-Food">Repository</a>
 
 <br/>
