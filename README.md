@@ -41,7 +41,7 @@
 <br/>
 <br/>
 <p dir="auto"><strong>Food App</strong></p>
-<img width="500px" heigth="500px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/food%20app.png" />
+<a href="https://ramira10-food-client.vercel.app/" target="_blank"><img width="500px" heigth="500px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/food%20app.png" /></a>
 <br/>
 <a href="https://ramira10-food-client.vercel.app/">Deploy</a>
 <br/>
@@ -50,7 +50,7 @@
 <br/>
 <br/>
 <p dir="auto"><strong>DoodleJump:</strong></p>
-<img width="250px" heigth="250px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/DoodleJump.png" />
+<a href="https://github.com/Ramira10/DoodleJump" target="_blank"><img width="250px" heigth="250px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/DoodleJump.png" /></a>
 <br/>
 <a href="https://github.com/Ramira10/DoodleJump">Repository</a>
 <div/>
