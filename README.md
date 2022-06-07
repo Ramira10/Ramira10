@@ -52,4 +52,5 @@
 
 <h2 align="center"> How to reach me: </h2>
 <p dir="auto"><strong>Email:</strong> <a href="mailto:matiasramira11@gmail.com">matiasramira11@gmail.com</a></p>
-<p dir="auto"><strong>Linkedin:</strong> <a href="https://www.linkedin.com/in/matiasramira/">matiasramira</a></p>
+<p dir="auto"><strong>Linkedin:</strong> <a href="https://www.linkedin.com/in/matiasramira/">Matias Ramira</a></p>
+<p dir="auto"><strong>Tel:</strong> <a>+54 3435201487</a></p>
