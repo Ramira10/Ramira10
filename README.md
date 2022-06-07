@@ -11,7 +11,7 @@
 
 <h2 align="center"> Lenguages and Tools </h2>
 <div>
-<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/png-clipart-javascript-scalable-graphics-logo-encapsulated-postscript-javascript-icon-text-logo.png" />
+<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/kisspng-javascript-computer-icons-software-developer-casca-javascript-logo-5b4ca5d6055ec0.625573901531749846022.jpg" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/1200px-React.svg.png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/5848309bcef1014c0b5e4a9a%20(2).png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/4202020css3htmllogosocialsocialmedia-115668_115633.png" />
