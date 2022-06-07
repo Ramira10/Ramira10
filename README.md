@@ -19,7 +19,7 @@
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/58482ee4cef1014c0b5e4a75%20(1).png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/584815fdcef1014c0b5e497a.png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/5847f981cef1014c0b5e48be.png" />
-<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/25231.png" />
+<img width="50px" heigth="50px" src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/1933998.png" />
 </div>
 
