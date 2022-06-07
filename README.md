@@ -49,9 +49,6 @@
      <br>
   </div> 
   
-  <div> 
-<h2 align="center"> How to reach me: </h2>
-<h4 align="center">Email: </h4> 
-<a href="mailto:matiasramira11@gmail.com">matiasramira11@gmail.com</a>
-  </div> 
 
+<h2 align="center"> How to reach me: </h2>
+<p dir="auto"><strong>Email:</strong> <a href="mailto:matiasramira11@gmail.com">matiasramira11@gmail.com</a></p>
