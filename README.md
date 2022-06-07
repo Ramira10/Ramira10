@@ -28,7 +28,11 @@
 </div>
 
 <h2 align="center"> My proyects </h2>
-<p dir="auto"><strong>E-Commerce:</strong> <a href="https://demo-deploy-pf-front.vercel.app/">E-Commerce</a></p>
+<p dir="auto"><strong>E-Commerce:</strong></p>
+<a href="https://demo-deploy-pf-front.vercel.app/">Deploy</a>
+<a href="https://github.com/LoreLor/PF-Eco-FRONTEND">Frontend</a>
+<a href="https://github.com/LoreLor/PF-Eco-BACKEND">Backend</a>
+
 <p dir="auto"><strong>Food App:</strong> <a href="https://ramira10-food-client.vercel.app/">Food App</a></p>
 <p dir="auto"><strong>DoodleJump:</strong> <a href="https://github.com/Ramira10/DoodleJump">DoodleJump</a></p>
 
