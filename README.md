@@ -9,6 +9,9 @@
        alt="snake" /></a>
 </div>
 
+<h2 align="center"> Lenguages and Tools </h2>
+
+
 <h2 align="center"> My current activity </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ramira10's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Ramira10&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
