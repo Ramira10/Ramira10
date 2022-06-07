@@ -46,3 +46,5 @@
        </p>
      <br>
   </div> 
+  
+  <h2 align="center"> How to reach me: </h2>
