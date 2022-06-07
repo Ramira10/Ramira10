@@ -50,7 +50,7 @@
 <br/>
 <br/>
 <p dir="auto"><strong>DoodleJump:</strong></p>
-<a href="https://github.com/Ramira10/DoodleJump" target="_blank"><img width="250px" heigth="250px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/DoodleJump.png" /></a>
+<a href="https://www.youtube.com/watch?v=eReYQkEwRg8" target="_blank"><img width="250px" heigth="250px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/DoodleJump.png" /></a>
 <br/>
 <a href="https://github.com/Ramira10/DoodleJump">Repository</a>
 <div/>
