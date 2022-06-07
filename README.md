@@ -51,6 +51,8 @@
 <br/>
 <p dir="auto"><strong>DoodleJump:</strong></p>
 <a href="https://github.com/Ramira10/DoodleJump">Repository</a>
+<img width="500px" heigth="500px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/DoodleJump.png" />
+<br/>
 <div/>
 
 
