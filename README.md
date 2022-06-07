@@ -18,6 +18,8 @@
 <img width="50px" heigth="50px" src="https://raw.githubusercontent.com/Ramira10/Ramira10/22a9b8b00d138b6424656da88b6bf823013ef281/iconos/nodejs-icon-logo.png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/58482ee4cef1014c0b5e4a75%20(1).png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/584815fdcef1014c0b5e497a.png" />
+<img width="50px" heigth="50px" src="https://img.icons8.com/color/480/material-ui.png" />
+<img width="50px" heigth="50px" src="https://itblogsogeti.files.wordpress.com/2018/04/mundo-ideal-boostrap4.png />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/5847f981cef1014c0b5e48be.png" />
 <img width="50px" heigth="50px" src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/1933998.png" />
