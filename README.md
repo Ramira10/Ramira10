@@ -32,10 +32,15 @@
 <a href="https://demo-deploy-pf-front.vercel.app/">Deploy</a>
 <a href="https://github.com/LoreLor/PF-Eco-FRONTEND">Frontend</a>
 <a href="https://github.com/LoreLor/PF-Eco-BACKEND">Backend</a>
+
 <br/>
-<p dir="auto"><strong>Food App:</strong> <a href="https://ramira10-food-client.vercel.app/">Food App</a></p>
+<p dir="auto"><strong>Food App:</strong></p>
+<a href="https://ramira10-food-client.vercel.app/">Deploy</a>
+<a href="https://github.com/Ramira10/PI-Food">Repository</a>
+
 <br/>
-<p dir="auto"><strong>DoodleJump:</strong> <a href="https://github.com/Ramira10/DoodleJump">DoodleJump</a></p>
+<p dir="auto"><strong>DoodleJump:</strong></p>
+<a href="https://github.com/Ramira10/DoodleJump">Repository</a>
 
 
 <h2 align="center"> My current activity </h2>
