@@ -28,6 +28,7 @@
 </div>
 
 <h2 align="center"> My proyects </h2>
+<div align="center">
 <p dir="auto"><strong>E-Commerce:</strong></p>
 <a href="https://demo-deploy-pf-front.vercel.app/">Deploy</a>
 <br/>
@@ -46,6 +47,7 @@
 <br/>
 <p dir="auto"><strong>DoodleJump:</strong></p>
 <a href="https://github.com/Ramira10/DoodleJump">Repository</a>
+<div/>
 
 
 <h2 align="center"> My current activity </h2>
