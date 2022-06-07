@@ -30,6 +30,7 @@
 <h2 align="center"> My proyects </h2>
 <div align="center">
 <p dir="auto"><strong>E-Commerce:</strong></p>
+<img width="250px" heigth="250px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/ecommerce.png" />
 <a href="https://demo-deploy-pf-front.vercel.app/">Deploy</a>
 <br/>
 <a href="https://github.com/LoreLor/PF-Eco-FRONTEND">Frontend</a>
@@ -39,6 +40,7 @@
 <br/>
 <br/>
 <p dir="auto"><strong>Food App:</strong></p>
+<img width="250px" heigth="250px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/food%20app.png" />
 <a href="https://ramira10-food-client.vercel.app/">Deploy</a>
 <br/>
 <a href="https://github.com/Ramira10/PI-Food">Repository</a>
