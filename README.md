@@ -30,7 +30,7 @@
 <h2 align="center"> My proyects </h2>
 <div align="center">
 <p dir="auto"><strong>E-Commerce</strong></p>
-<img width="500px" heigth="500px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/ecommerce.png" />
+<img width="500px" heigth="300px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/ecommerce.png" />
 <br/>
 <a href="https://demo-deploy-pf-front.vercel.app/">Deploy</a>
 <br/>
