@@ -21,6 +21,8 @@
 <img width="50px" heigth="50px" src="https://img.icons8.com/color/480/material-ui.png" />
 <img width="50px" heigth="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/602px-Bootstrap_logo.svg.png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/5847f981cef1014c0b5e48be.png" />
+<img width="50px" heigth="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" />
+<img width="50px" heigth="50px" src="https://w7.pngwing.com/pngs/419/11/png-transparent-trello-computer-icons-papirus-thumbnail.png" />
 <img width="50px" heigth="50px" src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/1933998.png" />
 </div>
