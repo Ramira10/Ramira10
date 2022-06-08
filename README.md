@@ -14,6 +14,7 @@
 <img width="50px" heigth="50px" src="https://raw.githubusercontent.com/Ramira10/Ramira10/a7c9f90315ddd998b2784eda7bdc1cd2f4c36d4e/iconos/Unofficial_JavaScript_logo_2.svg.png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/1200px-React.svg.png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/5848309bcef1014c0b5e4a9a%20(2).png" />
+<img width="50px" heigth="50px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/4202020css3htmllogosocialsocialmedia-115668_115633.png" />
 <img width="50px" heigth="50px" src="https://raw.githubusercontent.com/Ramira10/Ramira10/22a9b8b00d138b6424656da88b6bf823013ef281/iconos/nodejs-icon-logo.png" />
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/58482ee4cef1014c0b5e4a75%20(1).png" />
