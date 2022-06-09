@@ -51,9 +51,9 @@
 <br/>
 <br/>
  <p dir="auto"><strong>Weather App:</strong></p>
-<a href="https://www.youtube.com/watch?v=tlzBCxCOdyI" target="_blank"><img width="250px" heigth="250px" src="https://github.com/Ramira10/Weather-App" /></a>
+<a href="https://www.youtube.com/watch?v=tlzBCxCOdyI" target="_blank"><img width="250px" heigth="250px" src="https://github.com/Ramira10/Ramira10/commit/d59daf811d0792ac6ad4f6dbe9942fc7aef13a46" /></a>
 <br/>
-<a href="https://github.com/Ramira10/DoodleJump">Repository</a>
+<a href="https://github.com/Ramira10/Weather-App">Repository</a>
 <br/>
 <br/>
 <br/>
