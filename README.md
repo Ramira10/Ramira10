@@ -35,9 +35,9 @@
 <br/>
 <a href="https://www.youtube.com/watch?v=eJWjUBCAGmY">Video</a>
 <br/>
-<a href="https://github.com/LoreLor/PF-Eco-FRONTEND">Frontend</a>
+<a href="https://github.com/Ramira10/PF-Eco-FRONTEND">Frontend</a>
 <br/>
-<a href="https://github.com/LoreLor/PF-Eco-BACKEND">Backend</a>
+<a href="https://github.com/Ramira10/PF-Eco-BACKEND">Backend</a>
 <br/>
 <br/>
 <br/>
