@@ -28,7 +28,7 @@
 <img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/1933998.png" />
 </div>
 
-<h2 align="center"> My proyects </h2>
+<h2 align="center">Some of My proyects </h2>
 <div align="center">
 <p dir="auto"><strong>E-Commerce</strong></p>
 <a href="https://demo-deploy-pf-front.vercel.app/" target="_blank"><img width="500px" heigth="500px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/ecommerce.png"/></a>
