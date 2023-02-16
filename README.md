@@ -31,7 +31,7 @@
 <h2 align="center">Some of My proyects </h2>
 <div align="center">
 <p dir="auto"><strong>E-Commerce</strong></p>
-<a href="https://demo-deploy-pf-front.vercel.app/" target="_blank"><img width="500px" heigth="500px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/ecommerce.png"/></a>
+<a href="https://www.youtube.com/watch?v=eJWjUBCAGmY" target="_blank"><img width="500px" heigth="500px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/ecommerce.png"/></a>
 <br/>
 <a href="https://www.youtube.com/watch?v=eJWjUBCAGmY">Video</a>
 <br/>
@@ -47,7 +47,7 @@
 <br/>
 <br/>
 <p dir="auto"><strong>Food App</strong></p>
-<a href="https://ramira10-food-client.vercel.app/" target="_blank"><img width="500px" heigth="500px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/food%20app.png" /></a>
+<a href="https://www.youtube.com/watch?v=opQ4YwT5F2U" target="_blank"><img width="500px" heigth="500px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/food%20app.png" /></a>
 <br/>
 <a href="https://www.youtube.com/watch?v=opQ4YwT5F2U">Video</a>
 <br/>
@@ -66,28 +66,7 @@
 <a href="https://www.youtube.com/watch?v=eReYQkEwRg8" target="_blank"><img width="250px" heigth="250px" src="https://github.com/Ramira10/Ramira10/blob/main/Proyects/DoodleJump.png" /></a>
 <br/>
 <a href="https://github.com/Ramira10/DoodleJump">Repository</a>
-<div/>
-
-
-<h2 align="center"> My current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ramira10's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Ramira10&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-
-  <div>
-    <h2 align="center"> 📊 Github stats </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/Ramira10">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramira10&hide=html&layout=compact&theme=dark" alt="Ramira10 :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/Ramira10">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ramira10&theme=dark&show_icons=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramira10&theme=dark" />
-          </a>
-       </p>
-     <br>
-  </div> 
-  
+<div/>  
 
 <h2 align="center"> How to reach me: </h2>
 <p dir="auto"><strong>Email:</strong> <a href="mailto:matiasramira11@gmail.com">matiasramira11@gmail.com</a></p>
