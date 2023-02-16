@@ -25,7 +25,8 @@
 <img width="50px" heigth="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" />
 <img width="50px" heigth="50px" src="https://icons.iconarchive.com/icons/alecive/flatwoken/256/Apps-Trello-icon.png" />
 <img width="50px" heigth="50px" src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" />
-<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/1933998.png" />
+<img width="50px" heigth="50px" src="https://github.com/Ramira10/Ramira10/blob/main/iconos/1933998.png" /> <br/>
+  <h3 align="center"> ... and more skills that you can find in my <a href="https://portfolio-ramira10.vercel.app/" target="_blank">portfolio</a></h3>
 </div>
 
 <h2 align="center">Some of My proyects </h2>
