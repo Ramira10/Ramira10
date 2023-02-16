@@ -68,6 +68,26 @@
 <a href="https://github.com/Ramira10/DoodleJump">Repository</a>
 <div/>  
 
+
+<h2 align="center"> My current activity </h2>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ramira10's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Ramira10&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+
+  <div>
+    <h2 align="center"> 📊 Github stats </h2>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/Ramira10">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramira10&hide=html&layout=compact&theme=dark" alt="Ramira10 :: Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/Ramira10">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ramira10&theme=dark&show_icons=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramira10&theme=dark" />
+          </a>
+       </p>
+     <br>
+  </div> 
+
 <h2 align="center"> How to reach me: </h2>
 <p dir="auto"><strong>Email:</strong> <a href="mailto:matiasramira11@gmail.com">matiasramira11@gmail.com</a></p>
 <p dir="auto"><strong>Linkedin:</strong> <a href="https://www.linkedin.com/in/matiasramira/">Matias Ramira</a></p>
