@@ -1,7 +1,10 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Matias</h1>
+<h1 align="center">Hi, I'm Matias</h1>
 <h4 align="center">A Full Stack Developer from Argentina</h4>
 </div>
+
+Actualmente mi actividad se encuentra en Gitlab. 
+<a href="https://gitlab.com/MatiasRamira">GITLAB</a>
 
 <div align="center">
   <a>
