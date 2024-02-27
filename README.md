@@ -3,10 +3,10 @@
 <h4 align="center">A Full Stack Developer from Argentina</h4>
 </div>
 
-Actualmente mi actividad se encuentra en Gitlab. 
-<a href="https://gitlab.com/MatiasRamira">GITLAB</a>
 
 <div align="center">
+Actualmente mi actividad se encuentra en Gitlab. 
+<a href="https://gitlab.com/MatiasRamira">GITLAB</a>
   <a>
   <img  src="https://github.com/Ramira10/Ramira10/blob/main/grid-snake.svg"
        alt="snake" /></a>
