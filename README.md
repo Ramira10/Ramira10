@@ -8,7 +8,7 @@
         <b>Actualmente mi actividad se encuentra en <a href="https://gitlab.com/MatiasRamira">GITLAB</a>. Por cuestiones de la organización, no puedo mostrar los proyectos privados en los que trabajo en ninguna de las dos plataformas.</b>
     <br/>
     <br/>
-    <b>Currently my activity is on  <a href="https://gitlab.com/MatiasRamira">GITLAB</a>. For organizational reasons, I can't show my private projects in any of the two platforms.</b>
+    <b>Currently my activity is on  <a href="https://gitlab.com/MatiasRamira">GITLAB</a>. Due to organizational issues, I cannot show the private projects I work on on either platform.</b>
     <br/>
      <br/>
         <a>
