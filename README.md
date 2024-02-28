@@ -5,9 +5,6 @@
 
 
 <div align="center">
-  <b>
-<a href="https://gitlab.com/MatiasRamira">GITLAB</a>. 
-  </b>
     <a>
   <img  src="https://github.com/Ramira10/Ramira10/blob/main/grid-snake.svg"
        alt="snake" /></a>
