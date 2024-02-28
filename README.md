@@ -6,7 +6,7 @@
 
 <div align="center">
   <b>
-Actualmente mi actividad se encuentra en <a href="https://gitlab.com/MatiasRamira">GITLAB</a>. 
+<a href="https://gitlab.com/MatiasRamira">GITLAB</a>. 
   </b>
     <a>
   <img  src="https://github.com/Ramira10/Ramira10/blob/main/grid-snake.svg"
